@@ -7,4 +7,4 @@ Introduce services as landing page.
 ### Html, Bootstrap CSS, JavaScript, php, MYSQL
 
 ## 3. Functions: 
-Login/Register Account, Write/Modify/Delete Posts, Download files
+### Login/Register Account, Write/Modify/Delete Posts, Download files
